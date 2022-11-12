@@ -6,6 +6,8 @@
 
 You can reach me on LinkedIn here: http://linkedin.com/in/isaachua/ or on Instagram (@studywithisaac).
 
+Feel free to check out my projects repository to see the portfolio of work I've done and am currently working on!
+
 <!---
 hongyeehua/hongyeehua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
