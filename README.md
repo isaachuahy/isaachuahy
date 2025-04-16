@@ -4,6 +4,7 @@
 - 📚 Currently reading How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius by Donald Robertson.
 - 📫 I'd love to hear more from you about any book recommendations, interesting collaborations or projects you are working on: 
 
+Check out my website at https://isaachuahy.github.io/
 You can reach me on LinkedIn here: http://linkedin.com/in/isaachua/ or on Instagram (@studywithisaac).
 
 Feel free to check out my projects repository to see the portfolio of work I've done and am currently working on!
