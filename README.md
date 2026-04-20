@@ -1,6 +1,6 @@
 Building AI, ML and data systems that turn analysis into action.
 
-Currently building **David** - a personal AI executive assistant focused on:
+Currently building [**David**](https://github.com/isaachuahy/david/) - a personal AI executive assistant focused on:
 - scheduling and calendar workflows
 - persistent context and decision logs
 - action reliability and confirmation boundaries
@@ -12,8 +12,8 @@ Currently building **David** - a personal AI executive assistant focused on:
 - Interested in product analytics, AI ops, technical ops, and startup environments
 
 ### Featured work
-- **David** — AI assistant for scheduling, context, and action reliability
-- **ml-monitor** — monitoring/evaluation work
+- [**David**](https://github.com/isaachuahy/david/): AI assistant for scheduling, context, and action reliability
+- [**ml-monitor**](https://github.com/isaachuahy/ml-monitor/): System for monitoring ML model performance, data drift, observability, and other MLOps
 
 ### Background
 Previous Data Analyst at Dayforce. University of Toronto graduate in Mathematical Applications in Economics and Finance.
