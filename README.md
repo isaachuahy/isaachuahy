@@ -1,10 +1,25 @@
-👋 Yo! I’m Isaac.
+Building AI, ML and data systems that turn analysis into action.
 
-- 💼 Data Analyst at Dayforce, previous Data Scientist at The BRIDGE working on the Scarborough Data Delivery Hub project.
-- 🎓 I'm a new graduate from the University of Toronto with a specialist in Mathematical Applications in Economics and Finance.
-- 💭 I’m interested in data science, ML, fitness, productivity, statistics and psychology.
-- 📚 Favourite Book: How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius by Donald Robertson.
-- 📫 I'd love to hear more from you about any book recommendations, interesting collaborations or projects you are working on:
+Currently building **David** - a personal AI executive assistant focused on:
+- scheduling and calendar workflows
+- persistent context and decision logs
+- action reliability and confirmation boundaries
+- practical AI system design, not just chat UX
 
-You can reach me on LinkedIn here: http://linkedin.com/in/isaachua/ or on Instagram (@journeywithisaac).
-Check out my website at https://isaachuahy.github.io/
+## Current focus
+- Building and iterating on David
+- Exploring workflow automation, product systems, and AI-assisted decision infrastructure
+- Interested in product analytics, AI ops, technical ops, and startup environments
+
+## Featured work
+- **David** — AI assistant for scheduling, context, and action reliability
+- **ml-monitor** — monitoring/evaluation work
+- [your next best repo]
+
+## Background
+Previous Data Analyst at Dayforce. University of Toronto graduate in Mathematical Applications in Economics and Finance.
+
+## Links
+- LinkedIn: [linkedin.com/in/isaachua](http://linkedin.com/in/isaachua/)
+- Website: [isaachuahy.github.io](https://isaachuahy.github.io/)
+- Instagram: [@journeywithisaac](https://instagram.com/journeywithisaac/)
