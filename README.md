@@ -1,10 +1,10 @@
 Building AI, ML and data systems that turn analysis into action.
 
 Currently building [**David**](https://github.com/isaachuahy/david/) - a personal AI executive assistant focused on:
-- scheduling and calendar workflows
+- scheduling, planning calendar workflows
 - persistent context and decision logs
 - action reliability and confirmation boundaries
-- practical AI system design, not just chat UX
+- practical AI system design
 
 ### Current focus
 - Building and iterating on David
@@ -12,7 +12,8 @@ Currently building [**David**](https://github.com/isaachuahy/david/) - a persona
 - Interested in product analytics, AI ops, technical ops, and startup environments
 
 ### Featured work
-- [**David**](https://github.com/isaachuahy/david/): AI assistant for scheduling, context, and action reliability
+- [**David**](https://github.com/isaachuahy/david/): AI assistant for scheduling, planning, coaching
+- [**AdReady AI**](https://github.com/AdReadyAI/adready-ai): Creative evaluation platform that reviews video ads and determines launch readiness using multimodal analysis
 - [**ml-monitor**](https://github.com/isaachuahy/ml-monitor/): System for monitoring ML model performance, data drift, observability, and other MLOps
 
 ### Background
