@@ -11,9 +11,9 @@ Building AI, ML and data systems that turn analysis into action.
 - Interested in product analytics, AI ops, technical ops, and startup environments
 
 ### Background
-> Current Software Engineer - AI/ML at PM Accelerator
-> Prev. Data Scientist at The BRIDGE and Data Analyst at Dayforce.
-> University of Toronto graduate in Mathematical Applications in Economics and Finance.
+- Current Software Engineer - AI/ML at PM Accelerator
+- Prev. Data Scientist at The BRIDGE and Data Analyst at Dayforce.
+- University of Toronto graduate in Mathematical Applications in Economics and Finance.
 
 ### Links
 - LinkedIn: [linkedin.com/in/isaachua](http://linkedin.com/in/isaachua/)
